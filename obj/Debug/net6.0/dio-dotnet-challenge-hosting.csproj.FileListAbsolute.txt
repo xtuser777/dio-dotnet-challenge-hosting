@@ -1,0 +1,14 @@
+/home/dotnetuser/dio-dotnet-challenge-hosting/bin/Debug/net6.0/dio-dotnet-challenge-hosting
+/home/dotnetuser/dio-dotnet-challenge-hosting/bin/Debug/net6.0/dio-dotnet-challenge-hosting.deps.json
+/home/dotnetuser/dio-dotnet-challenge-hosting/bin/Debug/net6.0/dio-dotnet-challenge-hosting.runtimeconfig.json
+/home/dotnetuser/dio-dotnet-challenge-hosting/bin/Debug/net6.0/dio-dotnet-challenge-hosting.dll
+/home/dotnetuser/dio-dotnet-challenge-hosting/bin/Debug/net6.0/dio-dotnet-challenge-hosting.pdb
+/home/dotnetuser/dio-dotnet-challenge-hosting/obj/Debug/net6.0/dio-dotnet-challenge-hosting.GeneratedMSBuildEditorConfig.editorconfig
+/home/dotnetuser/dio-dotnet-challenge-hosting/obj/Debug/net6.0/dio-dotnet-challenge-hosting.AssemblyInfoInputs.cache
+/home/dotnetuser/dio-dotnet-challenge-hosting/obj/Debug/net6.0/dio-dotnet-challenge-hosting.AssemblyInfo.cs
+/home/dotnetuser/dio-dotnet-challenge-hosting/obj/Debug/net6.0/dio-dotnet-challenge-hosting.csproj.CoreCompileInputs.cache
+/home/dotnetuser/dio-dotnet-challenge-hosting/obj/Debug/net6.0/dio-dotnet-challenge-hosting.dll
+/home/dotnetuser/dio-dotnet-challenge-hosting/obj/Debug/net6.0/refint/dio-dotnet-challenge-hosting.dll
+/home/dotnetuser/dio-dotnet-challenge-hosting/obj/Debug/net6.0/dio-dotnet-challenge-hosting.pdb
+/home/dotnetuser/dio-dotnet-challenge-hosting/obj/Debug/net6.0/dio-dotnet-challenge-hosting.genruntimeconfig.cache
+/home/dotnetuser/dio-dotnet-challenge-hosting/obj/Debug/net6.0/ref/dio-dotnet-challenge-hosting.dll
